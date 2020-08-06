@@ -2,6 +2,8 @@
 
 Description-A twist on the classic whack-a-mole game in which players whack colored balls and a ball is only whacked if the player chooses the same color as the color of the ball and clicks on it.
 
+Video avaliable at https://www.youtube.com/watch?v=CliTeE99l4A
+
 # Required
 
 A web browser to run the html file.
